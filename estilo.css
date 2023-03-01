@@ -1,0 +1,20 @@
+body
+{
+    color: #000;
+    font-family: sans-serif;
+
+}
+
+#getInfo
+{
+    font-size: 40px;
+    margin:20px;
+}
+
+.respuesta
+{
+    background: #efefef;
+    font-size: 20px;
+    padding: 19px;
+
+}
